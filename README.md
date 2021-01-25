@@ -15,7 +15,8 @@ Please do not care about what is really going in the background, again, this was
 
 ### Steps
 1) Invite the BOT to your server by clicking <a href="https://discord.com/api/oauth2/authorize?client_id=799756668111683674&permissions=8&scope=bot">here</a>
-2) Add your mail to the database of the bot, so you will never ever have to mention your email again in the upcoming answer requests as exactly shown below:
+2) Join Chegg BOT Server by clicking [here](https://discord.gg/UpzKeq5AF5) to ask your questions or to just use the bot.
+3) Add your mail to the database of the bot, so you will never ever have to mention your email again in the upcoming answer requests as exactly shown below:
 
 ```+addmail yourmail@mail.com```
 
@@ -30,7 +31,7 @@ Please do not care about what is really going in the background, again, this was
 </p>
 <p align="center">(Might change in the future versions.)</p>
 
-3) Ask your question by using the command below:
+4) Ask your question by using the command below:
 
 ```+chegg QUESTION_LINK```
 
@@ -50,9 +51,9 @@ Please do not care about what is really going in the background, again, this was
 <img src="https://woosal.com/1337/woosal1337-2CpvXato7MkcNThO3Kw5POUbVLb3cyeWCLy9wCzlrFZnXZVcUgqe0oQ5OuLnkDRaryJwQxUSoVX4YHOkaK8zGTQlO.png">
 </p>
 
-4) If you have made it here, congratulations, after a few minutes you will receive a mail including the answer/unblurred page of the Chegg link you requested. 
+5) If you have made it here, congratulations, after a few minutes you will receive a mail including the answer/unblurred page of the Chegg link you requested. 
 
-5) Updating the mail:
+6) Updating the mail:
 ```
 +updatemail newmail@mail.com
 ```
@@ -67,7 +68,7 @@ Please do not care about what is really going in the background, again, this was
 	<img src="https://woosal.com/1337/woosal1337-c0CVCwrEL96py1yaPnsRvDqx6wvxXxPiDWSSK4HNyMYXq0MdnY18jJ4rmnRoteQ6cWh7fs0MC5MMoPAu9Az6J8rTQ.png">
 </p>
 
-6) Displaying your current mail details:
+7) Displaying your current mail details:
 
 ```
 +mail
@@ -83,7 +84,7 @@ Please do not care about what is really going in the background, again, this was
 	<img src="https://woosal.com/1337/woosal1337-nZ1zgCtnPupxFURmKZTUtQpsjHTQ00GXEEefwkY2bMsWuOD4mjTTUZDdDq5eWnUFdzH1IJA1LaQamximtAD1JiWAJ.png">
 </p>
 
-7) Deleting your mail from your account
+8) Deleting your mail from your account
 ```
 +deletemail
 ```
@@ -98,7 +99,7 @@ Please do not care about what is really going in the background, again, this was
 	<img src="https://woosal.com/1337/woosal1337-B2p1iasflvaW5P93AAWrruBZHBmGCvZjQofDiOQOLu8JFJIhheBAib2ViP6Q8aCAesX0kROrwrwTaOnYDKTLF7ZbF.png">
 </p>
 
-8) All the commands listed for you:
+9) All the commands listed for you:
 ```
 +commands
 ```
@@ -113,7 +114,76 @@ Please do not care about what is really going in the background, again, this was
 	<img src="https://woosal.com/1337/woosal1337-prlr9RSILB8KLFcsWsbCa1ghTfCsPMDPH721GupNxb6mA3iQx2Cp1rsTNY7kKhgYHtfCc6ttirdCJhMAQZs40biih.png">
 </p>	
 	
-	
+10) Chegg receive answers through DM/PM:
+```+cheggdm QUESTION_LINK```
+
+<p align="center">
+	<img src="https://woosal.com/1337/woosal1337-u6R6JYRwgqWPde1552EmIaM1rBirtgFOMVgLCVrtPE1M6X6AgQMsWzIbAz38ufisg1FGlx1PmqjK85FnfSAy0OGqj.png">
+</p>
+
+<i>Bot will reply as:</i>
+
+<p align="center">
+	<img src="https://woosal.com/1337/woosal1337-t2SvQ2S3kC3B23rafjM6tUI1qd6de65LEVK1azKsZyZiZumEC1wB2uoe6PR89Jnax68d2PY9jxVWJHURCky2W4U5j.png">
+</p>
+
+11) Delete your current DM/PM question query (each user can ask one question at a time, and if any issues are faced, please use this command as an emergency to purge your query and start again)
+
+```+deletequestion```
+
+<p align="center">
+	<img src="https://woosal.com/1337/woosal1337-4seYI6nBPNi7Sp0cBVI94Djh41vgeWUMLHQWvw7vH2x9cgN2KY2y11RXBd5cbx2gagFFfNfDcz5KQXqOcqRIiUgJW.png">
+</p>
+
+<i>Bot will reply as:</i>
+
+<p align="center">
+	<img src="https://woosal.com/1337/woosal1337-8NeJBUyLj7DZLq4q8lBBAjrd9q8mquGYbA9ZXSF1Ff7s8YDGrfRtpTFi90fi6kBl1o8xgN3vGJKxyS2W1qNQBTNtu.png">
+</p>
+
+# Admin/Owner Commands
+
+1) List the count of the users in the database (mails):
+```+usersdb```
+
+<p align="center">
+	<img src="https://woosal.com/1337/woosal1337-SnnBVXucirXshdmeeP0si0uwLWlG69ATktzC2qyDoFopfGvIXRi8VHBtNw1sDzHYJMhdIChbwah6NRfaBpz8VfGM3.png">
+</p>
+
+<i>Bot will reply as:</i>
+
+<p align="center">
+	<img src="https://woosal.com/1337/woosal1337-pJyYIoA01RHEkKb5K6DcpnaNp48svQPi3Qlo5aAuMnD9vUuae312JD4tuyl27LxftZxwuht2E91npLn7EWxVY98sG.png">
+</p>
+
+
+2) Sum the count of the users in all the servers the bot is in:
+```+usersdc```
+
+<p align="center">
+	<img src="https://woosal.com/1337/woosal1337-WoqR0vuZb941hSZ8Yx1IHTGPiHMpNOCV8WBhK5rHmRMQC3cX8PJsjv1AjjoCskNpfE3XMkvPRlwyLSya5flWGX4Sb.png">
+</p>
+
+<i>Bot will reply as:</i>
+
+<p align="center">
+	<img src="https://woosal.com/1337/woosal1337-b2ib1p8kUX3yLvU79OONAnZ9t3OIyoKhKWHNxFT35Wv3bfqm53JD4LPnjEvwMOVYklUyRoZCw3DGHheXZOOj5G98S.png">
+</p>
+
+3) List the count of the servers the bot is currently in:
+```+servers```
+
+<p align="center">
+	<img src="https://woosal.com/1337/woosal1337-RH3W4yTXw50friEu2YOM8NGOJEGz6BxU5KcgfQ1wkaDUBYlyZk1ce8RPdFce1y2GHrMK0NBXHzKQJl7mj4GXmNZPp.png">
+</p>
+
+<i>Bot will reply as:</i>
+
+<p align="center">
+	<img src="https://woosal.com/1337/woosal1337-daSfcq4LgPzRM40ny4hOFopMgY6Mztxq8dE79Wnh6f9i1y9xndG2Idasb1o9nBOmpJckNyqEygoWsP6HCqBc5YDjk.png">
+</p>
+
+
 ### Donate The Project
 <img src="https://raw.githubusercontent.com/spothq/cryptocurrency-icons/master/32/icon/btc.png"> Bitcoin 
 ```
@@ -136,9 +206,8 @@ Please do not care about what is really going in the background, again, this was
 
 ### What to come
 <ol type="I">
-	<li>Sending the unblurred answers through the Discord Chat/PM
-	</li>
-	<li>Faster server deployment
+	<li>
+		Official BOT Verification by Discord
 	</li>
 </ol>
 
@@ -156,7 +225,7 @@ Please do not care about what is really going in the background, again, this was
 <a href="https://top.gg/bot/799756668111683674">Click here!</a>
 
 ### Data we use
-The one and only data we gather and use for the "Chegg BOT" is your registered emails. We assure you that we do not gather any message, command, chat, and anything you can think of besides the mail you have registered your own.
+The one and only data we gather and use for the "Chegg BOT" is your registered emails, and general logs of the used commands.
 
 ### License
 <h5>MIT</h5>
